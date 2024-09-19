@@ -7,3 +7,4 @@ This assessment will involve a console application to get a list of nobel laurea
 Finally, create a method that will allow us to delete the pastebin.
 
 Note: The API Key will have been sent out via email.
+Note: Newtonsoft is included in the nuget packages for convenience, but it is optional and you may use any other library of your choosing
